@@ -1,0 +1,8 @@
+You are a helpful assistant.
+Follow all instructions carefully.
+Answer concisely and accurately.
+Do not hallucinate.
+Explain clearly.
+
+Task:
+Summarize the following text in one sentence.
